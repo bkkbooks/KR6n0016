@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0016/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1585.xml
+    old_id: T31n1585
+hash: sha256:4e43ea3ac161dba79e1d386d13e91f495272b8b0e25c31d12092f5a5ff9160ca

@@ -1,0 +1,1146 @@
+canonical_identifier: bkk:krp/KR6n0016/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0016/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識論
+  identifiers:
+    krp: KR6n0016
+    cbeta: T31n1585
+    cbeta_old_id: T31n1585
+    authorityid: CA0000452
+    json_key: T1585
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1585.xml
+    old_id: T31n1585
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0016_000-T.yaml, hash: 'sha256:4e43ea3ac161dba79e1d386d13e91f495272b8b0e25c31d12092f5a5ff9160ca'}
+  - {seq: 1, filename: KR6n0016_001-T.yaml, hash: 'sha256:062d7ecf243fd05b646c45a043d6cd6bf27eafad8103fdf04c69ee9c7a4df768'}
+  - {seq: 2, filename: KR6n0016_002-T.yaml, hash: 'sha256:bf2558530d130b0e563ce66d9b652be945d81710dc30e6419d5fa638d78ae403'}
+  - {seq: 3, filename: KR6n0016_003-T.yaml, hash: 'sha256:52196e996a2e54ad1caab82d36d5d8b160fa7b240479a564ce38e5ac8706244a'}
+  - {seq: 4, filename: KR6n0016_004-T.yaml, hash: 'sha256:1bcf0d0481b3a7a4c1e62de7ae2c405470625bd32b8d9087c0bef07630f187f7'}
+  - {seq: 5, filename: KR6n0016_005-T.yaml, hash: 'sha256:6eb772d37174a2984f73016394a33e396af5d6bae107754789238d5d87f67ee6'}
+  - {seq: 6, filename: KR6n0016_006-T.yaml, hash: 'sha256:486494fa43fda026f5f60f100bde458d8a81700042fbdd05c2bc79545a4f4b39'}
+  - {seq: 7, filename: KR6n0016_007-T.yaml, hash: 'sha256:e2e4589d64a7550ced2d4c9109d694dbe74a3b8e76e4161f80e6619bf10dcdfa'}
+  - {seq: 8, filename: KR6n0016_008-T.yaml, hash: 'sha256:aaff470aec4d2bcf13e63cdf2123dc9b885cf9d1b0d5e1f71994d434cdd93abe'}
+  - {seq: 9, filename: KR6n0016_009-T.yaml, hash: 'sha256:b7ed68731aaf64e9262de18b4f25e1d980842fe1efad81a8231cbd525839e9e9'}
+  - {seq: 10, filename: KR6n0016_010-T.yaml, hash: 'sha256:04e90b20c452a00c729c7c104f26d414bad3dd40bd39348ced4e378af59ccef8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0016_000-T.markers.yaml, hash: 'sha256:5f1f0a707506fa82154305522c3ea2b8bf34d129ccf39dfe7153fb1b6ee64383'}
+  - {seq: 1, role: markers, filename: assets/KR6n0016_001-T.markers.yaml, hash: 'sha256:eb292edeb1b74dd21dc851e9852d3e719917383037c989c207546ed0cafa3b78'}
+  - {seq: 2, role: markers, filename: assets/KR6n0016_002-T.markers.yaml, hash: 'sha256:a038341c4cdf27d73d695c8ea2fa92f41fe52f546a4b6e5fa4d247544f646522'}
+  - {seq: 3, role: markers, filename: assets/KR6n0016_003-T.markers.yaml, hash: 'sha256:97d5cfa37dcc51ede3cd5f219dd93e8f71f527a652987fc12ac4b08f8409289f'}
+  - {seq: 4, role: markers, filename: assets/KR6n0016_004-T.markers.yaml, hash: 'sha256:ece7fd1f97b2e44cd08b0853d6558ba62eb182bbf582cf668df24e1a1ef5f5c5'}
+  - {seq: 5, role: markers, filename: assets/KR6n0016_005-T.markers.yaml, hash: 'sha256:ce07022291312f6235d1313a12dc70f17326fa8e5ff7684922eefc78190e35d5'}
+  - {seq: 6, role: markers, filename: assets/KR6n0016_006-T.markers.yaml, hash: 'sha256:d81069e5e0489c6093f6faaef4d48e0d88a9a677d34db7e1d105bd940450be66'}
+  - {seq: 7, role: markers, filename: assets/KR6n0016_007-T.markers.yaml, hash: 'sha256:0e55b6fc80e3a7f50cde781dbf3153716fed97b727954c8b3c7932ab1c270de5'}
+  - {seq: 8, role: markers, filename: assets/KR6n0016_008-T.markers.yaml, hash: 'sha256:7efc212286f6e9aea9ac7a85a43e534be320e5d0e61482fcddad9802c753c43b'}
+  - {seq: 9, role: markers, filename: assets/KR6n0016_009-T.markers.yaml, hash: 'sha256:1c64b9b7cbfe24148cf70e4c4c2c0d3a3149c6681c61e37bc93b00719973bd4a'}
+  - {seq: 10, role: markers, filename: assets/KR6n0016_010-T.markers.yaml, hash: 'sha256:52c95266daff5f68424ef6174277328682a0eae30969bb8b7608e6d49fc49cbc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6416
+  label: 成唯識論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 壹、宗前敬序分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-2
+    span:
+    - body
+    - 15
+    - 15
+  label: (壹) 以頌彰釋論之因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-3
+    span:
+    - body
+    - 15
+    - 15
+  label: 一、歸敬福田
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-4
+    span:
+    - body
+    - 25
+    - 25
+  label: 二、敘釋論意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-5
+    span:
+    - body
+    - 35
+    - 35
+  label: (貳) 以長行明本論主造論之意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-6
+    span:
+    - body
+    - 35
+    - 35
+  label: 一、安慧等悟斷得果解
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-7
+    span:
+    - body
+    - 107
+    - 107
+  label: 二、火辨等達空悟性義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-8
+    span:
+    - body
+    - 131
+    - 131
+  label: 三、護法等破執顯理解
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-9
+    span:
+    - body
+    - 195
+    - 195
+  label: 貳、依教廣成分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-10
+    span:
+    - body
+    - 195
+    - 195
+  label: (壹) 明唯識相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-11
+    span:
+    - body
+    - 195
+    - 195
+  label: 一、略釋難標宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-12
+    span:
+    - body
+    - 195
+    - 195
+  label: (一) 將發論端寄問徵起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-13
+    span:
+    - body
+    - 211
+    - 211
+  label: (二) 舉頌依義正答
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-14
+    span:
+    - body
+    - 243
+    - 243
+  label: (三) 長行釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-15
+    span:
+    - body
+    - 243
+    - 243
+  label: ㊀釋上三句
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-16
+    span:
+    - body
+    - 243
+    - 243
+  label: 1 略釋頌答外徵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0016_T_001-mulu-17
+    span:
+    - body
+    - 569
+    - 569
+  label: 2 廣釋頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0016_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7573
+  label: 成唯識論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0016_T_002-mulu-1
+    span:
+    - body
+    - 2378
+    - 2378
+  label: ㊁釋下三句
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0016_T_002-mulu-2
+    span:
+    - body
+    - 2378
+    - 2378
+  label: 1 別解三句出能變體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0016_T_002-mulu-3
+    span:
+    - body
+    - 2441
+    - 2441
+  label: 2 釋能變義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0016_T_002-mulu-4
+    span:
+    - body
+    - 2635
+    - 2635
+  label: 二、隨標廣釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0016_T_002-mulu-5
+    span:
+    - body
+    - 2635
+    - 2635
+  label: (一) 明三能變識相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0016_T_002-mulu-6
+    span:
+    - body
+    - 2635
+    - 2635
+  label: ㊀釋頌文廣明三能變
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0016_T_002-mulu-7
+    span:
+    - body
+    - 2635
+    - 2635
+  label: 1 釋初能變
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0016_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7970
+  label: 成唯識論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0016_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 8292
+  label: 成唯識論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0016_T_004-mulu-1
+    span:
+    - body
+    - 2607
+    - 2607
+  label: 2 釋第二能變
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0016_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 8101
+  label: 成唯識論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0016_T_005-mulu-1
+    span:
+    - body
+    - 3536
+    - 3536
+  label: 3 釋第三能變
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0016_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 8257
+  label: 成唯識論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7752
+  label: 成唯識論卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-mulu-1
+    span:
+    - body
+    - 3674
+    - 3674
+  label: ㊁總料簡八識一、異
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-mulu-2
+    span:
+    - body
+    - 3674
+    - 3674
+  label: 1 明俱轉
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-mulu-3
+    span:
+    - body
+    - 3722
+    - 3722
+  label: 2 問、答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-mulu-4
+    span:
+    - body
+    - 4102
+    - 4102
+  label: 3 一、異分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-mulu-5
+    span:
+    - body
+    - 4216
+    - 4216
+  label: (二) 正解識變
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-mulu-6
+    span:
+    - body
+    - 4216
+    - 4216
+  label: ㊀結前、問後
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-mulu-7
+    span:
+    - body
+    - 4256
+    - 4256
+  label: ㊁舉頌答
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-mulu-8
+    span:
+    - body
+    - 4278
+    - 4278
+  label: ㊂長行釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-mulu-9
+    span:
+    - body
+    - 4278
+    - 4278
+  label: 1 正釋頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-mulu-10
+    span:
+    - body
+    - 4532
+    - 4532
+  label: 2 問、答廣辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-mulu-11
+    span:
+    - body
+    - 5784
+    - 5784
+  label: (三) 釋諸妨難解唯識義
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-mulu-12
+    span:
+    - body
+    - 5784
+    - 5784
+  label: ㊀釋違理
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0016_T_007-mulu-13
+    span:
+    - body
+    - 5784
+    - 5784
+  label: 1 釋分別生難
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0016_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 8892
+  label: 成唯識論卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0016_T_008-mulu-1
+    span:
+    - body
+    - 2290
+    - 2290
+  label: 2 釋生死相續難
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0016_T_008-mulu-2
+    span:
+    - body
+    - 5931
+    - 5931
+  label: ㊁釋違教
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0016_T_008-mulu-3
+    span:
+    - body
+    - 5931
+    - 5931
+  label: 1 釋三自性不成難
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 8349
+  label: 成唯識論卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 2 釋三無性不成難
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-2
+    span:
+    - body
+    - 329
+    - 329
+  label: (貳) 明唯識性
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-3
+    span:
+    - body
+    - 329
+    - 329
+  label: 一、解第二十五頌唯識真性
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-4
+    span:
+    - body
+    - 329
+    - 329
+  label: (一) 釋初三句
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-5
+    span:
+    - body
+    - 491
+    - 491
+  label: (二) 釋第四句
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-6
+    span:
+    - body
+    - 561
+    - 561
+  label: 二、總釋二十三至二十五頌意
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-7
+    span:
+    - body
+    - 593
+    - 593
+  label: (參) 明唯識位
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-8
+    span:
+    - body
+    - 593
+    - 593
+  label: 一、結上顯後所明
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-9
+    span:
+    - body
+    - 593
+    - 593
+  label: (一) 結上示三問
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-10
+    span:
+    - body
+    - 625
+    - 625
+  label: (二) 略答
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-11
+    span:
+    - body
+    - 625
+    - 625
+  label: (三) 別問別答廣前略答
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-12
+    span:
+    - body
+    - 625
+    - 625
+  label: ㊀廣能入人
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-13
+    span:
+    - body
+    - 693
+    - 693
+  label: ㊁廣所入位
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-14
+    span:
+    - body
+    - 761
+    - 761
+  label: ㊂廣入方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-15
+    span:
+    - body
+    - 849
+    - 849
+  label: 二、舉頌正釋五位
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-16
+    span:
+    - body
+    - 849
+    - 849
+  label: (一) 資糧位
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-17
+    span:
+    - body
+    - 849
+    - 849
+  label: ㊀問起>
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-18
+    span:
+    - body
+    - 857
+    - 857
+  label: ㊁舉頌答
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-19
+    span:
+    - body
+    - 879
+    - 879
+  label: ㊂長行釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-20
+    span:
+    - body
+    - 879
+    - 879
+  label: 1 別釋頌文
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-21
+    span:
+    - body
+    - 1481
+    - 1481
+  label: 2 辨位、修行
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-22
+    span:
+    - body
+    - 1793
+    - 1793
+  label: (二) 加行位
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-23
+    span:
+    - body
+    - 1793
+    - 1793
+  label: ㊀問起>
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-24
+    span:
+    - body
+    - 1801
+    - 1801
+  label: ㊁舉頌答
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-25
+    span:
+    - body
+    - 1823
+    - 1823
+  label: ㊂長行釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-26
+    span:
+    - body
+    - 1823
+    - 1823
+  label: 1 顯位所由
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-27
+    span:
+    - body
+    - 1873
+    - 1873
+  label: 2 釋位總名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-28
+    span:
+    - body
+    - 1905
+    - 1905
+  label: 3 出位所修法
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-29
+    span:
+    - body
+    - 1969
+    - 1969
+  label: 4 釋四地名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-30
+    span:
+    - body
+    - 2224
+    - 2224
+  label: 5 總攝上義釋本頌文
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-31
+    span:
+    - body
+    - 2388
+    - 2388
+  label: 6 斷二縛位
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-32
+    span:
+    - body
+    - 2444
+    - 2444
+  label: 7 明所觀境
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-33
+    span:
+    - body
+    - 2492
+    - 2492
+  label: 8 辨所依處
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-34
+    span:
+    - body
+    - 2524
+    - 2524
+  label: 9 界、趣分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-35
+    span:
+    - body
+    - 2540
+    - 2540
+  label: 10 七地分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-36
+    span:
+    - body
+    - 2556
+    - 2556
+  label: (三) 通達位
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-37
+    span:
+    - body
+    - 2556
+    - 2556
+  label: ㊀問起>
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-38
+    span:
+    - body
+    - 2564
+    - 2564
+  label: ㊁舉頌答
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-39
+    span:
+    - body
+    - 2586
+    - 2586
+  label: ㊂長行釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-40
+    span:
+    - body
+    - 2586
+    - 2586
+  label: 1 略解本頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-41
+    span:
+    - body
+    - 2660
+    - 2660
+  label: 2 廣釋>
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-42
+    span:
+    - body
+    - 3993
+    - 3993
+  label: (四) 修習位
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-43
+    span:
+    - body
+    - 3993
+    - 3993
+  label: ㊀問起>
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-44
+    span:
+    - body
+    - 4001
+    - 4001
+  label: ㊁舉頌答
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-45
+    span:
+    - body
+    - 4023
+    - 4023
+  label: ㊂長行釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-46
+    span:
+    - body
+    - 4023
+    - 4023
+  label: 1 略釋頌文
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0016_T_009-mulu-47
+    span:
+    - body
+    - 4473
+    - 4473
+  label: 2 廣前頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0016_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 8438
+  label: 成唯識論卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0016_T_010-mulu-1
+    span:
+    - body
+    - 4315
+    - 4315
+  label: (五) 究竟位
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0016_T_010-mulu-2
+    span:
+    - body
+    - 4315
+    - 4315
+  label: ㊀問起>
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0016_T_010-mulu-3
+    span:
+    - body
+    - 4323
+    - 4323
+  label: ㊁舉頌答
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0016_T_010-mulu-4
+    span:
+    - body
+    - 4345
+    - 4345
+  label: ㊂長行釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0016_T_010-mulu-5
+    span:
+    - body
+    - 4345
+    - 4345
+  label: 1 解頌>
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0016_T_010-mulu-6
+    span:
+    - body
+    - 5415
+    - 5415
+  label: 2 諸門分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0016_T_010-mulu-7
+    span:
+    - body
+    - 7257
+    - 7257
+  label: 參、釋結施願分
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0016_T_010-mulu-8
+    span:
+    - body
+    - 7257
+    - 7257
+  label: (壹) 結釋示正名
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0016_T_010-mulu-9
+    span:
+    - body
+    - 7273
+    - 7273
+  label: (貳) 釋亦名
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0016_T_010-mulu-10
+    span:
+    - body
+    - 7289
+    - 7289
+  label: (參) 示本論名，釋結施願
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0016_T_010-mulu-11
+    span:
+    - body
+    - 7341
+    - 7341
+  label: 後序
+  type: mulu
+  level: 1
+hash: sha256:535417efb646ef0d065e40d296d314cae580b8626053da7d795451716015bd1e
